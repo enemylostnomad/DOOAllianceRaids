@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260227-180855-xav8",
+    "title": "Just Mad N Fluffy",
+    "commanders": [
+      "Just Mad N Fluffy"
+    ],
+    "dateStart": "2026-02-27T18:08:55.000Z",
+    "dateEnd": "2026-02-27T20:14:18.000Z",
+    "dateLabel": "27/02/2026, 18:08:55 - 27/02/2026, 20:14:18",
+    "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260227-180855-xav8",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 15,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 36
+    }
+  },
+  {
     "id": "20260226-195536-8afd",
     "title": "Strádùs",
     "commanders": [
