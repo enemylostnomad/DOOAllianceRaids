@@ -1,0 +1,25 @@
+[
+  {
+    "id": "20260226-195536-8afd",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-26T19:55:36.000Z",
+    "dateEnd": "2026-02-26T20:51:34.000Z",
+    "dateLabel": "26/02/2026, 19:55:36 - 26/02/2026, 20:51:34",
+    "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260226-195536-8afd",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 43
+    }
+  }
+]
