@@ -1,48 +1,83 @@
-[
-  {
-    "id": "20260227-180855-xav8",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-27T18:08:55.000Z",
-    "dateEnd": "2026-02-27T20:14:18.000Z",
-    "dateLabel": "27/02/2026, 18:08:55 - 27/02/2026, 20:14:18",
-    "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260227-180855-xav8",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
-      ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 36
-    }
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260226-195536-8afd",
-    "title": "Strádùs",
-    "commanders": [
-      "Strádùs"
-    ],
-    "dateStart": "2026-02-26T19:55:36.000Z",
-    "dateEnd": "2026-02-26T20:51:34.000Z",
-    "dateLabel": "26/02/2026, 19:55:36 - 26/02/2026, 20:51:34",
-    "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260226-195536-8afd",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+  "entries": [
+    {
+      "id": "20260303-190423-qadu",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 43
+      "dateStart": "2026-03-03T19:04:23.000Z",
+      "dateEnd": "2026-03-03T20:49:00.000Z",
+      "dateLabel": "03/03/2026, 19:04:23 - 03/03/2026, 20:49:00",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260303-190423-qadu",
+      "summary": {
+        "borderlandsPct": 0.9655172413793104,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260227-180855-xav8",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-02-27T18:08:55.000Z",
+      "dateEnd": "2026-02-27T20:14:18.000Z",
+      "dateLabel": "27/02/2026, 18:08:55 - 27/02/2026, 20:14:18",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260227-180855-xav8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260226-195536-8afd",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "dateStart": "2026-02-26T19:55:36.000Z",
+      "dateEnd": "2026-02-26T20:51:34.000Z",
+      "dateLabel": "26/02/2026, 19:55:36 - 26/02/2026, 20:51:34",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260226-195536-8afd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 43
+      }
     }
-  }
-]
+  ]
+}
