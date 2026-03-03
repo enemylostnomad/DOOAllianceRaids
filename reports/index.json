@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260303-190423-gbo4",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-03T19:04:23.000Z",
+      "dateEnd": "2026-03-03T20:49:00.000Z",
+      "dateLabel": "03/03/2026, 19:04:23 - 03/03/2026, 20:49:00",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260303-190423-gbo4",
+      "summary": {
+        "borderlandsPct": 0.9655172413793104,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260303-190423-qadu",
       "title": "Just Mad N Fluffy",
       "commanders": [
