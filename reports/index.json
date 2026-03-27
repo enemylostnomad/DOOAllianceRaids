@@ -1,10 +1,30 @@
 {
-  "siteTheme": {
-    "ui": "classic",
-    "paletteId": "Arcane",
-    "kineticFont": "default"
-  },
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260327-181219-xq0o",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-03-27T18:12:19.000Z",
+      "dateEnd": "2026-03-27T20:27:31.000Z",
+      "dateLabel": "27/03/2026, 18:12:19 - 27/03/2026, 20:27:31",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260327-181219-xq0o",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 25
+      }
+    },
     {
       "id": "20260315-204633-apo5",
       "title": "Just Mad N Fluffy",
