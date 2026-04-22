@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260422-191501-n9mq",
+      "title": "Yoloola",
+      "commanders": [
+        "Yoloola"
+      ],
+      "dateStart": "2026-04-22T18:15:01.000Z",
+      "dateEnd": "2026-04-22T20:00:12.000Z",
+      "dateLabel": "22/04/2026, 19:15:01 - 22/04/2026, 21:00:12",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260422-191501-n9mq",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260406-185448-cnbe",
       "title": "Strádùs",
       "commanders": [
