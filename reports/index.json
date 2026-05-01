@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260501-190852-dwio",
+      "title": "Mon Mariachi",
+      "commanders": [
+        "Mon Mariachi"
+      ],
+      "dateStart": "2026-05-01T18:08:52.000Z",
+      "dateEnd": "2026-05-01T19:58:11.000Z",
+      "dateLabel": "01/05/2026, 19:08:52 - 01/05/2026, 20:58:11",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260501-190852-dwio",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 23,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260430-185845-gppn",
       "title": "Just Mad N Fluffy, Strádùs",
       "commanders": [
