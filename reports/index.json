@@ -1,7 +1,37 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260530-191558-66ug",
+      "title": "Me My Clones And I, Svart Hámar",
+      "commanders": [
+        "Me My Clones And I",
+        "Svart Hámar"
+      ],
+      "dateStart": "2026-05-30T18:15:58.000Z",
+      "dateEnd": "2026-06-01T20:05:22.000Z",
+      "dateLabel": "30/05/2026, 19:15:58 - 01/06/2026, 21:05:22",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260530-191558-66ug",
+      "summary": {
+        "borderlandsPct": 0.16666666666666666,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20260501-190852-dwio",
       "title": "Mon Mariachi",
