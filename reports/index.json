@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260605-191228-yi6w",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-05T18:12:28.000Z",
+      "dateEnd": "2026-06-05T20:02:03.000Z",
+      "dateLabel": "05/06/2026, 19:12:28 - 05/06/2026, 21:02:03",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260605-191228-yi6w",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260530-191558-66ug",
       "title": "Me My Clones And I, Svart Hámar",
       "commanders": [
