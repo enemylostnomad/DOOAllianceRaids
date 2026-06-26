@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260626-191231-mcij",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "dateStart": "2026-06-26T18:12:31.000Z",
+      "dateEnd": "2026-06-26T20:06:45.000Z",
+      "dateLabel": "26/06/2026, 19:12:31 - 26/06/2026, 21:06:45",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260626-191231-mcij",
+      "summary": {
+        "borderlandsPct": 0.4666666666666667,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260612-191015-b7nh",
       "title": "Just Mad N Fluffy",
       "commanders": [
