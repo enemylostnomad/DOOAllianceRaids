@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260806-190853-t0jz",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "F8E791D2-9E6B-EB11-81B7-C3B1C0E42B51",
+        "name": "Beyond The Aurora",
+        "tag": "ARTS"
+      },
+      "dateStart": "2026-08-06T18:08:53.000Z",
+      "dateEnd": "2026-08-06T20:17:13.000Z",
+      "dateLabel": "06/08/2026, 19:08:53 - 06/08/2026, 21:17:13",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260806-190853-t0jz",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 15,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260726-101321-7lr5",
       "title": "Just Mad N Fluffy",
       "commanders": [
