@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260810-210831-egmh",
+      "title": "Enemy Thorn, Grabnebelfûrstin",
+      "commanders": [
+        "Enemy Thorn",
+        "Grabnebelfûrstin"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-10T20:08:31.000Z",
+      "dateEnd": "2026-08-10T21:09:37.000Z",
+      "dateLabel": "10/08/2026, 21:08:31 - 10/08/2026, 22:09:37",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260810-210831-egmh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 14,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260809-191107-lz8w",
       "title": "Just Mad N Fluffy",
       "commanders": [
