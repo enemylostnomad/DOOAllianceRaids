@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-191120-ners",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E377E769-5DBB-46EC-8DF5-07253C9A46DB",
+        "name": "Death By Tea",
+        "tag": "CUP"
+      },
+      "dateStart": "2026-08-14T18:11:20.000Z",
+      "dateEnd": "2026-08-14T20:04:53.000Z",
+      "dateLabel": "14/08/2026, 19:11:20 - 14/08/2026, 21:04:53",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260814-191120-ners",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 23,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260810-210831-egmh",
       "title": "Enemy Thorn, Grabnebelfûrstin",
       "commanders": [
