@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260828-192221-9yed",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-28T18:22:21.000Z",
+      "dateEnd": "2026-08-28T19:20:27.724Z",
+      "dateLabel": "28/08/2026, 19:22:21 - 28/08/2026, 20:20:27",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260828-192221-9yed",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 43,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 56
+      }
+    },
+    {
       "id": "20260821-191451-n0j8",
       "title": "Just Mad N Fluffy",
       "commanders": [
