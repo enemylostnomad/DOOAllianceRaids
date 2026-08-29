@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260829-190200-0pgb",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-29T18:02:00.000Z",
+      "dateEnd": "2026-08-29T19:18:48.183Z",
+      "dateLabel": "29/08/2026, 19:02:00 - 29/08/2026, 20:18:48",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260829-190200-0pgb",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260828-192221-9yed",
       "title": "Just Mad N Fluffy",
       "commanders": [
