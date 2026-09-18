@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260918-191818-1pcu",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-09-18T18:18:18.000Z",
+      "dateEnd": "2026-09-18T20:37:48.110Z",
+      "dateLabel": "18/09/2026, 19:18:18 - 18/09/2026, 21:37:48",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20260918-191818-1pcu",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 28,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20260904-190839-5wv8",
       "title": "Just Mad N Fluffy",
       "commanders": [
