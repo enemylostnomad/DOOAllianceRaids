@@ -5,6 +5,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261003-154816-touv",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-03T14:48:16.000Z",
+      "dateEnd": "2026-10-03T15:50:13.782Z",
+      "dateLabel": "03/10/2026, 15:48:16 - 03/10/2026, 16:50:13",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20261003-154816-touv",
+      "summary": {
+        "borderlandsPct": 0.09090909090909091,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 2,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20261002-192325-0fc3",
       "title": "Just Mad N Fluffy",
       "commanders": [
