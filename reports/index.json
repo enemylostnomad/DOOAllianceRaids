@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-134900-qneu",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "757F9AC9-6744-EF11-8465-06D1970130F4",
+        "name": "Dont Worry We Got",
+        "tag": "this"
+      },
+      "dateStart": "2026-10-04T12:49:00.000Z",
+      "dateEnd": "2026-10-04T14:25:03.889Z",
+      "dateLabel": "04/10/2026, 13:49:00 - 04/10/2026, 15:25:03",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20261004-134900-qneu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20261003-154816-touv",
       "title": "Präk",
       "commanders": [
