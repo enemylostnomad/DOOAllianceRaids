@@ -9,6 +9,40 @@
   },
   "entries": [
     {
+      "id": "20261007-194855-b5rv",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-07T18:48:55.000Z",
+      "dateEnd": "2026-10-07T21:22:29.890Z",
+      "dateLabel": "07/10/2026, 19:48:55 - 07/10/2026, 22:22:29",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20261007-194855-b5rv",
+      "publishedBy": "enemylostnomad",
+      "summary": {
+        "borderlandsPct": 0.0975609756097561,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20261007-163513-ats4",
       "title": "Präk",
       "commanders": [
