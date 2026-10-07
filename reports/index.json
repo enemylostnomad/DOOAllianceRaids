@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261007-163513-ats4",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "90E6761F-F884-EF11-8465-06D1970130F4",
+        "name": "Yabbba Dabbba",
+        "tag": "DOO"
+      },
+      "dateStart": "2026-10-07T15:35:13.000Z",
+      "dateEnd": "2026-10-07T17:23:02.097Z",
+      "dateLabel": "07/10/2026, 16:35:13 - 07/10/2026, 18:23:02",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20261007-163513-ats4",
+      "publishedBy": "enemylostnomad",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 42
+      }
+    },
     {
       "id": "20261004-134900-qneu",
       "title": "Me My Clones And I",
