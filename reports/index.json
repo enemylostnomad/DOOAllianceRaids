@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.1"
+    "version": "3.22.9"
   },
   "entries": [
+    {
+      "id": "20261018-193215-m6wr",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-18T18:32:15.000Z",
+      "dateEnd": "2026-10-18T20:02:21.683Z",
+      "dateLabel": "18/10/2026, 19:32:15 - 18/10/2026, 21:02:21",
+      "url": "https://enemylostnomad.github.io/DOOAllianceRaids/?report=20261018-193215-m6wr",
+      "publishedBy": "enemylostnomad",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261007-194855-b5rv",
       "title": "Enemy Thorn",
